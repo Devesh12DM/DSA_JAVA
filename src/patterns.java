@@ -24,12 +24,18 @@ public class patterns {
 //         }
 
 
-         for ( int line = 1 ; line <= 5 ; line++ ){
-             for ( int i = 1 ; i <= line; i++){
-                 System.out.print(i);
-             }
-             System.out.println();
-         }
+//         for ( int line = 1 ; line <= 5 ; line++ ){
+//             for ( int i = 1 ; i <= line; i++){
+//                 System.out.print(i);
+//             }
+//             System.out.println();
+//         }
+
+//         1
+//         12
+//         123
+//         1234
+//         12345
 
 
 
