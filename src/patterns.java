@@ -22,6 +22,12 @@ public class patterns {
 //             }
 //             System.out.println( );
 //         }
+//         *  *  *  *  *
+//         *  *  *  *
+//         *  *  *
+//         *  *
+//         *
+
 
 
 //         for ( int line = 1 ; line <= 5 ; line++ ){
